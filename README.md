@@ -36,4 +36,4 @@ In the future I will try to use some other packages, potentially something with 
 [Notebook](https://github.com/Wingaero/Fauna_Classification_Project/blob/main/Notebook.ipynb)
 
 ## Presentation:
-[Presentation](------)
+[Presentation](https://github.com/Wingaero/Fauna_Classification_Project/blob/main/fauna_classification_slides.pdf)
