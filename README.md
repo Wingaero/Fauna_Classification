@@ -22,7 +22,7 @@ In pre-processing, I first loaded the images into data-loaders.  Then, I augment
 There is still room for improvement in the model and I think I'm first going to try editing the preprocessing numbers as well as adding a zoom augmentation filter. Below is the classification report for the model.
 
 
-[Report](images/classification_rep_fauna.jpg)
+![Report](images/classification_rep_fauna.jpg)
 
 
 ## Evaluation & Conclusion
@@ -37,3 +37,6 @@ In the future I will try to use some other packages, potentially something with 
 
 ## Presentation:
 [Presentation](https://github.com/Wingaero/Fauna_Classification_Project/blob/main/fauna_classification_slides.pdf)
+
+## Contributers
+Mason Walter <a href = "https://github.com/Wingaero"><img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png' width = '25' height='25'></a><a href="www.linkedin.com/in/mason-c-walter/"><img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' width = '25' height='25'></a>  
