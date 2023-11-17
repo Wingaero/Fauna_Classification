@@ -22,7 +22,7 @@ In pre-processing, I first loaded the images into data-loaders.  Then, I augment
 There is still room for improvement in the model and I think I'm first going to try editing the preprocessing numbers as well as adding a zoom augmentation filter. Below is the classification report for the model.
 
 
-![Report](images/classification_rep_fauna.jpg)
+[Report](images/classification_rep_fauna.jpg)
 
 
 ## Evaluation & Conclusion
